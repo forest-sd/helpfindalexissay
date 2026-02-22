@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Join the Search for Alexis</title>
+    <link>https://helpfindalexissay.pages.dev</link>
+    <description>Latest posts from Join the Search for Alexis</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://helpfindalexissay.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building Stronger Communities Through Local Engagement</title>
+      <link>https://helpfindalexissay.pages.dev/posts/building-stronger-communities-through-local-engagement/</link>
+      <description>Building Stronger Communities Through Local Engagement — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Power of Community Awareness</title>
+      <link>https://helpfindalexissay.pages.dev/posts/power-of-community-awareness/</link>
+      <description>How community engagement transforms the search for missing persons.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Supporting Families of Missing Persons</title>
+      <link>https://helpfindalexissay.pages.dev/posts/supporting-families-of-missing-persons/</link>
+      <description>Practical ways to support families navigating the crisis of a missing loved one.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>What to Do When Someone Goes Missing</title>
+      <link>https://helpfindalexissay.pages.dev/posts/what-to-do-when-someone-goes-missing/</link>
+      <description>Step-by-step guide for the critical first hours when someone goes missing.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
